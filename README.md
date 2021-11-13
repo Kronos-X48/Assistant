@@ -8,11 +8,11 @@ Note this wont run without installing python idle 3.8.3
 
 and make sure to download the following python packages :
   
-  speech_recognition
-  pyaudio
-  pyttsx3
-  os
-  sys
+  speech_recognition,
+  pyaudio,
+  pyttsx3,
+  os,
+  sys,
   
   ######      INSTRUCTION FOR USING THE PROVIDED MODULES      ########
   
