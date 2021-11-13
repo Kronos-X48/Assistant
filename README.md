@@ -17,4 +17,6 @@ and make sure to download the following python packages :
   ######      INSTRUCTION FOR USING THE PROVIDED MODULES      ########
   
   Download them and extract them in the folder u installed ur python IDLE
- 
+  
+  
+  and run the whl or wheel file in cmd or terminal
